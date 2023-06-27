@@ -1,0 +1,6 @@
+in testimonials 
+npm install swiper
+
+npm install react-icons
+
+npm install emailjs --save
